@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N54rce", "N54rce.csproj", "{B263887F-4C8E-4DE7-A6E8-F01272434738}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N54rce.Utility", "N54rce.Utility\N54rce.Utility.csproj", "{21DC39FC-BB41-4AF4-8F3E-02D806171042}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N54rce.DAL", "N54rce.DAL\N54rce.DAL.csproj", "{F36A6A64-78DC-4320-B6D1-A054CC198987}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EdiabasLib", "..\EdiabasLib\EdiabasLib\EdiabasLib.csproj", "{3C2E9AE9-8252-451F-9B8F-92EBB56D245D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B263887F-4C8E-4DE7-A6E8-F01272434738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B263887F-4C8E-4DE7-A6E8-F01272434738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B263887F-4C8E-4DE7-A6E8-F01272434738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B263887F-4C8E-4DE7-A6E8-F01272434738}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21DC39FC-BB41-4AF4-8F3E-02D806171042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21DC39FC-BB41-4AF4-8F3E-02D806171042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21DC39FC-BB41-4AF4-8F3E-02D806171042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21DC39FC-BB41-4AF4-8F3E-02D806171042}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F36A6A64-78DC-4320-B6D1-A054CC198987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F36A6A64-78DC-4320-B6D1-A054CC198987}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F36A6A64-78DC-4320-B6D1-A054CC198987}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F36A6A64-78DC-4320-B6D1-A054CC198987}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C2E9AE9-8252-451F-9B8F-92EBB56D245D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C2E9AE9-8252-451F-9B8F-92EBB56D245D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C2E9AE9-8252-451F-9B8F-92EBB56D245D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C2E9AE9-8252-451F-9B8F-92EBB56D245D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
